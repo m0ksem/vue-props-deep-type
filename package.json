@@ -1,0 +1,26 @@
+{
+  "name": "vue-props-deep-type",
+  "version": "1.0.0",
+  "description": "Deep props validation",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "yarn jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m0ksem/vue-props-deep-type.git"
+  },
+  "keywords": [
+    "vue",
+    "type",
+    "props"
+  ],
+  "author": "m0ksem <m0ksem1337@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/m0ksem/vue-props-deep-type/issues"
+  },
+  "homepage": "https://github.com/m0ksem/vue-props-deep-type#readme",
+  "dependencies": {
+    "jest": "^26.1.0"
+  }
+}
